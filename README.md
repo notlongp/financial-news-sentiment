@@ -15,8 +15,6 @@ Since the data is straight forward and text-based, there are not much to explore
 
 ## Part 4 - Natural Language Processing with vaderSentiment
 
-## Part 5 - Natural Language Processing with SpaCy Pipeline and application of Machine Learning models (LinearSVC, XGBOOST, etc.)
+## Part 5 - Natural Language Processing with nltk and application of Deep Learning models (ANN, RNN, etc.
 
-## Part 6 - Natural Language Processing with nltk and application of Deep Learning models (ANN, RNN)
-
-## Part 7 - Natural Language Processing with SpaCy Pipeline and application of Deep Learning models (ANN, RNN, etc.)
+## Part 6 - Natural Language Processing with SpaCy Pipeline and application of Deep Learning models (ANN, RNN, etc.)
