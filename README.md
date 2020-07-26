@@ -15,6 +15,5 @@ Since the data is straight forward and text-based, there are not much to explore
 
 ## Part 4 - Natural Language Processing with vaderSentiment
 
-## Part 5 - Natural Language Processing with nltk and application of Deep Learning models (ANN, RNN, etc.
-
-## Part 6 - Natural Language Processing with SpaCy Pipeline and application of Deep Learning models (ANN, RNN, etc.)
+## Part 5 - Natural Language Processing with nltk and application of Deep Learning models (ANN, CNN) with Google News Word2Vec
+In order to run this part properly, first you need to download Google News Word2vec bin.gz file [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and place it inside folder /data/.
