@@ -12,8 +12,10 @@ It's important to run this part before running any other part in the repository 
 Since the data is straight forward and text-based, there are not much to explore about it. However, it's important to keep in mind the number of articles written per day/per month in order to carry this project to assess the correlation between financial news sentiment and the fluctuation of S&P500 index price in the upcoming project.
 
 ## Part 3 - Natural Language Processing with TextBlob
+Applied Python’s TextBlob to perform text polarity analysis, and used clustering algorithms (K-Means Clustering and Natural Break Optimization) to categorize positive, neutral, and negative articles.
 
 ## Part 4 - Natural Language Processing with vaderSentiment
+Applied Python’s vaderSentiment to perform text polarity analysis, and used clustering algorithms (K-Means Clustering and Natural Break Optimization) to categorize positive, neutral, and negative articles.
 
 ## Part 5 - Natural Language Processing with nltk and application of Deep Learning models (ANN, CNN) with Google News Word2Vec
 In order to run this part properly, first you need to download Google News Word2vec bin.gz file [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) and place it inside folder /data/.
